@@ -33,4 +33,4 @@ that have been resolved. The administrator will also be able
 to add water agencies to the system. 
 
 #ER Diagram
-![ER Diagram](/img/er_diagram.png)
+![ER Diagram](img/er_diagram.jpg)
